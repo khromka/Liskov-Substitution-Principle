@@ -6,7 +6,7 @@
 - Порушення LSP: клас Penguin успадковує Bird, але не може літати.
 - Правильна реалізація: розділення на FlyingBird та NonFlyingBird.
 
-## ▶️ Запуск
+##  Запуск
 ```bash
 g++ main.cpp -o birds
 ./birds
